@@ -1,0 +1,22 @@
+.img-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.button_container {
+    text-align: center;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.img-item {
+    padding: 10px;
+    text-align: center;
+    flex-basis: calc(33.33% - 20px);
+}
+
+img {
+    max-width: 150px;
+}
