@@ -31,3 +31,5 @@ Le model entrainé : https://drive.google.com/file/d/16IakjbSdWZVAk9Y5eEiDlaJqKh
 à enregistrer dans le dossier model/v2
 
 Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+
+![image](https://user-images.githubusercontent.com/64967048/234588397-a3ff4c79-a5f2-4f29-aa59-4c94d89b15c9.png)
